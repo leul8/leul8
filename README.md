@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Leul Makonnen</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
-<h3 align="left">Connect with me: <a href = "https://leulmakonnen.com/?i=1#contact"><a>Here!</a></a></h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
